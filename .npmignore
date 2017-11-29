@@ -1,5 +1,5 @@
 # Source file
-Components
+# Components #ignore this in order for the react-native bundle to work
 
 # Dotfiles
 .babelrc
