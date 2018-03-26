@@ -81,7 +81,7 @@ class ActionSheetContainer extends Component {
 					<TouchableOpacity
 						activeOpacity={1}
 						style={{
-							backgroundColor: "#fff",
+							backgroundColor: "#363636",
 							height: this.state.length * 80,
 							padding: 15,
 							elevation: 4,
