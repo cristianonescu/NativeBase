@@ -111,7 +111,7 @@ class ActionSheetContainer extends Component {
 												this.state.callback(id);
 												this.setState({ modalVisible: false });
 											}}
-											style={{ borderColor: "transparent" }}
+											style={{ borderColor: "transparent", backgroundColor: "#363636" }}
 											icon
 										>
 											<Left>
