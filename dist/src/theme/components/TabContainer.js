@@ -17,7 +17,7 @@ shadowOpacity:platformStyle==="material"?0.2:undefined,
 shadowRadius:platformStyle==="material"?1.2:undefined,
 justifyContent:"space-around",
 borderBottomWidth:_reactNative.Platform.OS==="ios"?variables.borderWidth:0,
-borderColor:variables.topTabBarBorderColor};
+borderColor:'transparent'};
 
 
 return tabContainerTheme;
